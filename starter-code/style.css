@@ -25,11 +25,16 @@ footer {
 	background-color: #808080;
 	clear: both;
 }
+
+img {
+	height: 200px;
+	width: 150px;
+}
 .board {
 	display: inline-block;
 	height: 50%;
 	width: 50%;
-	float: left;
+	/*float: left;*/
 }
 .card {
 	height: 200px;
